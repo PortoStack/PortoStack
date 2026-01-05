@@ -10,8 +10,10 @@ I am a passionate developer who loves bridging the gap between hardware and soft
 
 #### **Software Development**
 - **Languages:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-- **Frontend/UI:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-- **Database:** ![SQL](https://img.shields.io/badge/SQL-CC0000?style=flat-square&logo=postgresql&logoColor=white)
+- **Frontend:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-00BCFF?style=flat-square&logo=tailwindcss&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+- **Backend:** [Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) 
+  ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+- **Database:** ![MySQL](https://img.shields.io/badge/MySQL-F29209?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-CC0000?style=flat-square&logo=postgresql&logoColor=white)
 
 #### **Hardware & Embedded Systems**
 - **Languages:** ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -35,8 +37,8 @@ I am a passionate developer who loves bridging the gap between hardware and soft
 -->
 
 ### 📫 Connect with me:
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/porto-yospunya-00a3b13a1/)
+- **LinkedIn:** [linkedin.com/in/porto-yospunya](https://www.linkedin.com/in/porto-yospunya-00a3b13a1/)
 - **Portfolio:** Portfolio - PortoStack(https://porto-portfolio.vercel.app/)
-- **Email:** yospunyaporto@email.com
+- **Email:** yospunyaporto@gmail.com
 
 ---
