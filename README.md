@@ -38,7 +38,7 @@ I am a passionate developer who loves bridging the gap between hardware and soft
 ---
 -->
 
-### 📫 Connect with me:
+### Connect with me:
 - **LinkedIn:** [linkedin.com/in/porto-yospunya](https://www.linkedin.com/in/porto-yospunya-00a3b13a1/)
 - **Portfolio:** Portfolio - PortoStack(https://porto-portfolio.vercel.app/)
 - **Email:** yospunyaporto@gmail.com
