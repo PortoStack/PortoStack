@@ -40,5 +40,3 @@ I am a passionate developer who loves bridging the gap between hardware and soft
 - **Email:** yospunyaporto@email.com
 
 ---
-
-*"Building the future, one line of code (and one solder joint) at a time."*
