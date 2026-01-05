@@ -23,7 +23,7 @@ I am a passionate developer who loves bridging the gap between hardware and soft
 - **Workflow:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
-```
+<!--
 ### GitHub Stats
 
 <p align="center">
@@ -32,7 +32,7 @@ I am a passionate developer who loves bridging the gap between hardware and soft
 </p>
 
 ---
-```
+-->
 
 ### 📫 Connect with me:
 - **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/porto-yospunya-00a3b13a1/)
